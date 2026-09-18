@@ -1,10 +1,10 @@
-streamlit==1.64.0
+streamlit
 pandas
 numpy
-tensorflow==2.21.0rc1
+tensorflow
 scikit-learn
-plotly==5.23.0
-rich==13.7.1
-markdown-it-py==4.2.0
-pygments==2.21.0
-mdurl==0.1.2
+plotly
+rich
+markdown-it-py
+pygments
+mdurl
