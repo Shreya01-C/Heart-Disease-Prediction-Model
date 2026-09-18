@@ -1,6 +1,6 @@
 pandas
 numpy
-tensorflow
+tensorflow==2.21.0rc1
 scikit-learn
 plotly==5.23.0
 rich==13.7.1
